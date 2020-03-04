@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80734410909",
+    "firebase_url": "https://flashchat-deff8.firebaseio.com",
+    "project_id": "flashchat-deff8",
+    "storage_bucket": "flashchat-deff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80734410909:android:9019d77e4ad4be23ce1c74",
+        "android_client_info": {
+          "package_name": "co.atharva.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80734410909-9scshddtgsihtplkpbal77akkvfpebsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4e9jKUxT4mC6etZxivXH8PnD7MTnQfWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80734410909-9scshddtgsihtplkpbal77akkvfpebsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
